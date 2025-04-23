@@ -1,8 +1,4 @@
----
-layout: page
-icon: fas fa-info-circle
-order: 4
----
+
 
 # 👋 Hey there! I'm Ali — aka COOKIE 🍪
 
@@ -82,7 +78,7 @@ order: 4
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-CYS&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-CYS&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ali-CYS&theme=radical&hide_border=false&border_radius=5)
+
 
 
 ----------
